@@ -20,6 +20,8 @@ If you want to see API responses, you need to run this app with `-d` (or `--debu
 node index.js -key="fdd873f4d95276bdacd2b3c65c9580e3" --debug
 ```
 
+At the beginning, the application will send `WELCOME` event to your agent and you will be able to start "talking" with it. If you want to stop, just enter `exit` and application will halt.
+
 ## Contribute
 
 What to help or have a suggestion? Open a [new ticket](https://github.com/eugene-manuilov/dialogflow-cli/issues/new) and we can discuss it or submit pull request.
