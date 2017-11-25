@@ -1,0 +1,19 @@
+{
+	"name": "dialogflow-cli",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+	},
+	"keywords": [
+	],
+	"author": "Eugene Manuilov <eugene.manuilov@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"apiai": "^4.0.3",
+		"commander": "^2.12.1",
+		"uuid": "^3.1.0",
+		"winston": "^2.4.0",
+		"winston-console-formatter": "^0.3.1"
+	}
+}
